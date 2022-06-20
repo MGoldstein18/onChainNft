@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# On-Chain NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+An NFT with on-chain, dynamic metadata on the Polygon Mumbai Test
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Polygon Scan: https://mumbai.polygonscan.com/address/0xCC10dB49BD9454BBec995AB4C196263eEE2f1d94#code
+OpenSea Collection: https://testnets.opensea.io/collection/chain-battles-4kvobomq2r
